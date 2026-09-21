@@ -4,4 +4,4 @@ I have decided to reconsider and develop my unfinished projects again. Some of t
 Most of these projects will be released under the "alime"/"alimetastic" brand.
 
 ## Why do it now?
-It has been 4 years since I started to use NBK as branding, and I have moved on from simple things to more moderate projects
+It has been 5 years since I started to use NBK as branding, and I have moved on from simple things to more moderate projects. Also, NBK didn't represent my identity that well.
