@@ -5,3 +5,6 @@ Most of these projects will be released under the "alime"/"alimetastic" brand.
 
 ## Why do it now?
 It has been 5 years since I started to use NBK as branding, and I have moved on from simple things to more moderate projects. Also, NBK didn't represent my identity that well.
+
+## What is planned for the future?
+I have made a conceptual plan of development in different areas, public one will be published.
