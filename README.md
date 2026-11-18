@@ -6,4 +6,4 @@ I’ve decided to revisit and further develop my unfinished projects. Some ongoi
 It has been five years since I started using NBK as my branding. Over that time I’ve moved on from simple experiments to more substantial projects, and my skills, interests, and standards have changed. NBK also never represented my identity well. A new name is a chance to start fresh and present my work in a way that reflects who I am and what I actually build.
 
 ## What is planned for the future?
-I have made a conceptual plan of development in different areas, public one will be published. Any addition and collaboration is welcome.
+I’ve put together a conceptual development plan covering several areas, including software, hobby electronics, telecom, and creative worldbuilding.
