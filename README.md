@@ -1,7 +1,6 @@
 # Rebranding
 
-I have decided to reconsider and develop my unfinished projects again. Some of the ongoing and planned projects will be written in different programming languagues from scratch
-Most of these projects will be released under the "alime"/"alimetastic" brand.
+I’ve decided to revisit and further develop my unfinished projects. Some ongoing and planned projects will be rewritten from scratch in different programming languages, using what I’ve learned since I first started them. Most of them will be released under the alime / alimetastic name.
 
 ## Why do it now?
 It has been 5 years since I started to use NBK as branding, and I have moved on from simple things to more moderate projects. Also, NBK didn't represent my identity that well.
