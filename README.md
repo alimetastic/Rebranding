@@ -7,3 +7,6 @@ It has been five years since I started using NBK as my branding. Over that time 
 
 ## What is planned for the future?
 I’ve put together a conceptual development plan covering several areas, including software, hobby electronics, telecom, and creative worldbuilding. A public version will be published once it’s ready, so you can follow the progress and see where each project is heading. Additions and collaboration are welcome. If you have an idea, want to contribute, or would like to work on something together, feel free to get in touch.
+
+
+commit commit commit
