@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/nbk-lmtstc.png" width="520" >
+  <img src=nbk-lmtstc.png" width="520" >
 </p>
 
 # Rebranding
